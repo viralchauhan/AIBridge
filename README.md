@@ -22,12 +22,12 @@ AI.Bridge is a modular, dependency-injected wrapper over Microsoft.Extensions.AI
 ## Repository Structure
 
 - `AI.Bridge/`
-  - `AIWrapper.Core/Abstractions/` â€” Core interfaces (e.g., `IAIService`, `IChatService`, `IEmbeddingService`, `IVisionService`, `IVectorStoreService`, `IAIProvider`).
-  - `AIWrapper.Services/` â€” Concrete services (`AIService`, Chat, Embeddings, Vision, Vector Store).
-  - `AIWrapper.Providers/` â€” Providers (e.g., `OpenAIProvider`, `OllamaProvider`).
-  - `AIWrapper.Extensions/` â€” DI extensions and health check (`ServiceCollectionExtensions`, `AIServiceHealthCheck`).
-  - `AI.Bridge.csproj` â€” Package references and optional web build settings.
-- `Sample/` â€” Console sample showing end-to-end usage and configuration.
+  - `AIWrapper.Core/Abstractions/` — Core interfaces (e.g., `IAIService`, `IChatService`, `IEmbeddingService`, `IVisionService`, `IVectorStoreService`, `IAIProvider`).
+  - `AIWrapper.Services/` — Concrete services (`AIService`, Chat, Embeddings, Vision, Vector Store).
+  - `AIWrapper.Providers/` — Providers (e.g., `OpenAIProvider`, `OllamaProvider`).
+  - `AIWrapper.Extensions/` — DI extensions and health check (`ServiceCollectionExtensions`, `AIServiceHealthCheck`).
+  - `AI.Bridge.csproj` — Package references and optional web build settings.
+- `Sample/` — Console sample showing end-to-end usage and configuration.
 
 
 ## Installation
@@ -309,11 +309,11 @@ If you have Ollama running locally at `http://localhost:11434`, the Ollama examp
 
 Key abstractions are in `AIWrapper.Core/Abstractions/`:
 
-- `IAIService` â€” Aggregates `Chat`, `Embeddings`, `Vision`, `VectorStore`.
-- `IChatService` â€” Chat completion, streaming, structured output, function calling, `WithProvider`, `WithModel`.
-- `IEmbeddingService` â€” Embedding generation, similarity, `WithProvider`, `WithModel`.
-- `IVisionService` â€” Vision analysis and structured vision results, `WithProvider`, `WithModel`.
-- `IVectorStoreService` â€” Create/get collections, upsert, and search.
+- `IAIService` — Aggregates `Chat`, `Embeddings`, `Vision`, `VectorStore`.
+- `IChatService` — Chat completion, streaming, structured output, function calling, `WithProvider`, `WithModel`.
+- `IEmbeddingService` — Embedding generation, similarity, `WithProvider`, `WithModel`.
+- `IVisionService` — Vision analysis and structured vision results, `WithProvider`, `WithModel`.
+- `IVectorStoreService` — Create/get collections, upsert, and search.
 
 
 ## License
