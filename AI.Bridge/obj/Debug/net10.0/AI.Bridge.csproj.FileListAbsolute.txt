@@ -1,0 +1,13 @@
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\AI.Bridge.csproj.AssemblyReference.cache
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\AI.Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\AI.Bridge.AssemblyInfoInputs.cache
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\AI.Bridge.AssemblyInfo.cs
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\AI.Bridge.csproj.CoreCompileInputs.cache
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\AI.Bridge.sourcelink.json
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\bin\Debug\net10.0\AI.Bridge.deps.json
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\bin\Debug\net10.0\AI.Bridge.dll
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\bin\Debug\net10.0\AI.Bridge.pdb
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\AI.Bridge.dll
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\refint\AI.Bridge.dll
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\AI.Bridge.pdb
+C:\Users\virch\source\repos\AIBridge\AI.Bridge\obj\Debug\net10.0\ref\AI.Bridge.dll

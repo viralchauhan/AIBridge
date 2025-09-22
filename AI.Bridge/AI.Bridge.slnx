@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Sample/Sample.csproj" Id="84bd0635-6578-4441-9213-18e1ef6dca82" />
+  <Project Path="AI.Bridge.csproj" />
+</Solution>
